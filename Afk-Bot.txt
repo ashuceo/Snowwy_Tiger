@@ -1,0 +1,5 @@
+{
+	"ip":"OriginalMysticsSMP.aternos.me",
+	"port": "39093",
+	"name": "Herobrine"
+}
